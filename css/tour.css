@@ -1,0 +1,31 @@
+/* Tour page styles */
+
+.pick {
+  width: 40px;
+  height: 0%;
+  padding: 10px;
+}
+
+table {
+  width: 60%;
+}
+
+caption {
+  font-size: 1.3em;
+  padding: 20px 0 20px 0;
+}
+
+table, th, td {
+  font-family: 'Open Sans', sans-serif;
+  color: #C3EBF0;
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 15px;
+}
+
+td {
+  padding: 8px;
+}
